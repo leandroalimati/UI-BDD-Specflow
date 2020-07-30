@@ -1,4 +1,3 @@
-# Desafio 01 - BDD
 # 👨🏻‍💻Automação .NetCore + SpecFlow (BDD) + Selenium WebDriver
 
 Behavior Driven Development (BDD ou ainda, em livre tradução, Desenvolvimento Guiado por Comportamento) é uma abordagem de design de software de forma disciplinada, abordando uma série de conceitos e técnicas sempre com foco no domínio do software.
